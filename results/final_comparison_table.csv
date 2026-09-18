@@ -1,0 +1,7 @@
+Model,Best Val Macro-F1
+Transformer (centralized),0.5524
+CNN-LSTM,0.5352
+Transformer+FedProx (proposed),0.47487648518643344
+Transformer+FedAvg,0.45312525880550136
+LSTM,0.4422
+Autoencoder+GAN,0.2067
