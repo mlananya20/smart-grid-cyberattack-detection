@@ -1,0 +1,20 @@
+{
+  "high_heterogeneity": {
+    "alpha": 0.1,
+    "fedavg_best_f1": 0.2989,
+    "fedprox_best_f1": 0.3177,
+    "gap": 0.0189
+  },
+  "medium_heterogeneity (original)": {
+    "alpha": 0.5,
+    "fedavg_best_f1": 0.4359,
+    "fedprox_best_f1": 0.4232,
+    "gap": -0.0127
+  },
+  "low_heterogeneity": {
+    "alpha": 5.0,
+    "fedavg_best_f1": 0.5283,
+    "fedprox_best_f1": 0.4998,
+    "gap": -0.0286
+  }
+}
